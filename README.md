@@ -1,2 +1,1 @@
-PHARMACY DETAILS
-
+This project is a simple Pharmacy Database Management System created using MySQL. It stores and manages medicine-related information such as tablet ID, tablet name, tablet weight, symptoms, cost, and age group.
